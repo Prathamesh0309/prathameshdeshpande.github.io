@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website.
 
-🌐 Live site: https://<your-username>.github.io
+🌐 Live site: [https://<your-username>.github.io](https://prathamesh0309.github.io/prathameshdeshpande.github.io/)
 
 ## Tech Stack
 - HTML5
